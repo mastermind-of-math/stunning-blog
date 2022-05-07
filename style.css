@@ -1,0 +1,46 @@
+#contact iframe
+{
+    width: 100%;
+}
+
+.image{
+    border:5px solid black;
+}
+.image img{
+    width: 100%;
+    
+}
+.container{
+    font-family: monospace;
+}
+.image h5, .image p{
+    margin:40px;
+}
+.image2{
+    border:5px solid black;
+}
+.image2 img{
+    width: 100%;
+}
+.image2 h5, .image2 p{
+    margin:40px;
+}
+
+.movie_1{
+    font-size:25px;
+    border-radius: 15px;
+    padding:6px 22px;
+    margin-bottom: 20px;
+}
+
+.movie_1 i{
+    float:right;
+}
+
+.ice_age_div span{
+    color:goldenrod;
+}
+
+.book{
+    margin-bottom: 30px;
+}
